@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  reddit_username: MyString
+  top_listing_name: MyString
+  top_listing_likes: MyString
+  : 1
+  fav_sub_name: MyString
+  most_children_name: MyString
+  Most_children_likes: MyString
+  : 1
+
+two:
+  reddit_username: MyString
+  top_listing_name: MyString
+  top_listing_likes: MyString
+  : 1
+  fav_sub_name: MyString
+  most_children_name: MyString
+  Most_children_likes: MyString
+  : 1
