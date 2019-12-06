@@ -9,9 +9,13 @@ class UsersController < ApplicationController
 
     def create
         user = User.new(user_params)
-        user.save  
+        if user.save
+            render json: user
+        else
+            render json: { error: 'Username exist, no save!' }
+        end
     end 
-
+    
 
 private
 
