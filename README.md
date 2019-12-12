@@ -1,24 +1,16 @@
-# README
+# Reddit Analyzer Backend
+[Reddit Analyzer Website](https://rachid1982fsb.github.io/RedditAnalyzerFrontendH/)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# About
+Reddit User Analyzer allows a user to search for a reddit username and displays and analyzes relative information about that user.
 
-Things you may want to cover:
+## Usage
 
-* Ruby version
+Users must login(mostly for demonstration purposes for data interaction) annd then enter a username from Reddit in the search bar to display relevent user information.
 
-* System dependencies
+## Copywrite
 
-* Configuration
+[An Andy Read Production](https://www.linkedin.com/in/andrew-read-983aaa74)
+[An Rachid Rakaa Production](https://www.linkedin.com/in/rachid1982fsb/)
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
