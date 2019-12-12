@@ -30,7 +30,7 @@ Contributions are welcome. Feel free to open a pull request or branch from this 
 
 [An Andy Read Production](https://www.linkedin.com/in/andrew-read-983aaa74)
 
-[An Rachid Rakaa Production](https://www.linkedin.com/in/rachid1982fsb/)
+[Rachid Rakaa Production](https://github.com/rachid1982fsb)
 
 ## License
 https://opensource.org/licenses/MIT
