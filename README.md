@@ -1,7 +1,7 @@
 # Reddit Analyzer Backend
-[Reddit Analyzer Website](https://rachid1982fsb.github.io/RedditAnalyzerFrontendH/).
+[Reddit Analyzer Website link](https://rachid1982fsb.github.io/RedditAnalyzerFrontendH/).
 
-[Frontend repository](https://github.com/rachid1982fsb/RedditAnalyzerFrontendH).
+[Frontend repository link](https://github.com/rachid1982fsb/RedditAnalyzerFrontendH).
 
 # About
 Reddit User Analyzer allows a user to search for a reddit username and displays and analyzes relative information about that user.
