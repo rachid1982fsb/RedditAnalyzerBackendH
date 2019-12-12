@@ -19,8 +19,11 @@ Run rails s in the console to start the backend server.
 ## Technology
 
 PostgreSQL for database
+
 Ruby on Rails API 
+
 Rack-cors gem
+
 Serializer gem
 
 ## Contributing
